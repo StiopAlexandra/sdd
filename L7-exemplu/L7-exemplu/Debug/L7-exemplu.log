@@ -1,0 +1,3 @@
+﻿  L7-exemplu.cpp
+D:\ANUL II\SDD\L7-exemplu\L7-exemplu\L7-exemplu.cpp(197,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  L7-exemplu.vcxproj -> D:\ANUL II\SDD\L7-exemplu\Debug\L7-exemplu.exe

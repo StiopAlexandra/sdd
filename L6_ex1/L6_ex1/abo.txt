@@ -1,0 +1,9 @@
+8
+Fizica 03.11.2018 206
+Informatica 22.05.2017 128
+Matematica 14.11.2018 102
+Engleza 07.10.2017 52
+Geografie 26.09.2019 198
+Istorie 13.06.2019 91
+Biologie 22.12.2017 154
+Chimie 17.08.2018 65

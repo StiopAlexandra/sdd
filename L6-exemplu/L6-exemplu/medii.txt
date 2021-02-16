@@ -1,0 +1,10 @@
+9
+ionescu 9
+gavris 10
+popescu 9.25
+cotuna 9.5
+hosu 8
+olar 9.75
+vasilescu 10
+avram 9
+dan 8

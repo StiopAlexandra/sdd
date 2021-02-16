@@ -1,0 +1,4 @@
+﻿  ex1-lab2.cpp
+D:\ANUL II\SDD\ex1-lab2\ex1-lab2\ex1-lab2.cpp(118,6): warning C4101: 'cap_ad': unreferenced local variable
+D:\ANUL II\SDD\ex1-lab2\ex1-lab2\ex1-lab2.cpp(118,14): warning C4101: 'cap_st': unreferenced local variable
+  ex1-lab2.vcxproj -> D:\ANUL II\SDD\ex1-lab2\Debug\ex1-lab2.exe

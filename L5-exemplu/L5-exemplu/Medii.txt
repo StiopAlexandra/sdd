@@ -1,0 +1,6 @@
+5
+ionescu 8 9 7
+ban     6 7 9
+popescu 9 7 9
+avram   9 9 9
+adorian 10 8 9
